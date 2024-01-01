@@ -5,8 +5,8 @@ const path = require('path');
 
 // Initialize Redis client
 const redisClient = new Redis({
-  host: "ramsredis-jnwy7y.serverless.use1.cache.amazonaws.com",
-  port: 6379,
+  host: "ramsredis-jnwy7y.serverless.use1.cache.amazonaws.com:6379",
+ 
 });
 
 // Read the JSON data from the file
