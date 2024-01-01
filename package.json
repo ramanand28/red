@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "apollo-server": "^3.13.0",
+    "apollo-server-cache-redis": "^3.3.1",
+    "apollo-server-lambda": "^3.13.0",
+    "fs": "^0.0.1-security",
+    "graphql": "^16.8.1",
+    "ioredis": "^5.3.2"
+  },
+  "devDependencies": {
+    "serverless-offline": "^13.3.2"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
