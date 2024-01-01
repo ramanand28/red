@@ -5,7 +5,7 @@ const { RedisCache } = require('apollo-server-cache-redis');
 
 // Initialize Redis client
 const redisClient = new Redis({
-  host: "ramsredis-jnwy7y.serverless.use1.cache.amazonaws.com",
+  host: "dem-ro.jnwy7y.ng.0001.use1.cache.amazonaws.com",
   port: 6379, // Ensure this is a number, default is usually 6379
   // password: 'if you have a password', // Uncomment and set this if your Redis instance is secured with a password
 });
