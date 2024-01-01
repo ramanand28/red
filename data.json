@@ -1,0 +1,28 @@
+[
+    {
+      "name": "John Doe",
+      "id": 1,
+      "price": 120.50
+    },
+    {
+      "name": "Jane Smith",
+      "id": 2,
+      "price": 150.00
+    },
+    {
+      "name": "Emily Davis",
+      "id": 3,
+      "price": 200.25
+    },
+    {
+      "name": "Michael Brown",
+      "id": 4,
+      "price": 180.75
+    },
+    {
+      "name": "Linda White",
+      "id": 5,
+      "price": 130.00
+    }
+  ]
+  
